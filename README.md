@@ -125,3 +125,4 @@ Ví dụ file `input/os_1_mlq_paging`:
 ## 👥 Tác giả & Bản quyền
 - **Môn học**: CO2018 - Hệ điều hành (HCMUT VNU-HCM)
 - **Giảng viên hướng dẫn gốc**: TS. Phạm Đăng Nguyễn (pdnguyen)
+
