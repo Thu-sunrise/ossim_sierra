@@ -1,0 +1,15 @@
+# Binaries
+os
+mem
+sched
+
+# Objects
+obj/
+*.o
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Output listing
+*.lst
